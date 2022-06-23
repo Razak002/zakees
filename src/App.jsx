@@ -47,6 +47,17 @@ function App() {
       <div className="img">
       <img src={mcii} alt="img" />
       </div>
+    <div className="foot">
+      <h1>take some coffee with provee</h1> 
+      <p>you can also contact me on my social media pages below
+      </p>
+      <ul>
+        <l1>facebook</l1>
+        <l1>twiter</l1>
+        <l1>instagram</l1>
+      </ul>
+    </div>
+      
     </>
   )
 }
